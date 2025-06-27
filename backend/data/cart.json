@@ -1,0 +1,25 @@
+[
+  {
+    "email": "admin@mail.org",
+    "carts": []
+  },
+  {
+    "email": "krittayot.10516@gmail.com",
+    "carts": []
+  },
+  {
+    "email": null,
+    "carts": [
+      {
+        "item": "Oversized timeless_Soft Sand",
+        "size": "XXL",
+        "amount": 10
+      },
+      {
+        "item": "Oversized timeless_Truffle",
+        "size": "XXL",
+        "amount": 1
+      }
+    ]
+  }
+]
